@@ -144,12 +144,13 @@ Being the pioneer of Mobile Money in Africa, Vodafone accounted for   45.6% of  
  Today, M-PESA has more than 17 million subscribers in Kenyans (over two-thirds of the adult population). Approximately 31% of the country’s GDP flows through it.
 Before M-PESA, in 2006, only 20% of Kenyan adults had access to financial services. By 2010 this number had risen to 75%. A World Bank report similarly found that M-PESA users are approximately 33% more likely to have savings than their peers.
 
-![meme](Kenya.jpg)
+![meme]( Kenya.png)
 
 
 ## Recommendations
 
 ### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers or use your imagination!)
+
 
 ### Why do you think that offering this product or service would benefit the company?
 
