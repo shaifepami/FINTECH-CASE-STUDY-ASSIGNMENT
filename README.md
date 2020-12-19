@@ -150,9 +150,14 @@ Before M-PESA, in 2006, only 20% of Kenyan adults had access to financial servic
 ## Recommendations
 
 ### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers or use your imagination!)
+My recommendation would be to add the following products to their offerings
 
+Collections– They should have an API that allows companies especially financial institutions to integrate a M-Pesa checkout button to accept Mobile Money payments on your e-commerce site. So through the mobile app their subscribers can make payment on for products on these e-commerce websites.
+In addition they can also  develop products that can allows mass payment to multiple beneficiaries at the same time. This will enable them to break into market segments such as sport betting companies that is growing in Africa.
 
 ### Why do you think that offering this product or service would benefit the company?
+greater percentage of consumer products are generally being conducted on the web. Integrating the Mobile App to these e-commerce website to allow their subscribers be able to make payment would enable them increase their market shares. It would also help the e-commerce companies to be able to reach the remote location to sell their products. It is going to be win-win for both parties.
+
 
 ### What technologies would this additional product or service utilize?
 
